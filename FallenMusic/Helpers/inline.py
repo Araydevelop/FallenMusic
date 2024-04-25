@@ -56,7 +56,7 @@ pm_buttons = [
     ],
     [
         InlineKeyboardButton(
-            text="✨★彡 🄱🄾🅃 🄼🄾🅃🄸🅅🄴  彡★"✨, url="https://graph.org/file/42b16d92241d15043b69b.jpg"
+            text="✨★彡 🄱🄾🅃 🄼🄾🅃🄸🅅🄴  彡★✨", url="https://graph.org/file/42b16d92241d15043b69b.jpg"
         ),
         InlineKeyboardButton(text="✨🎶ANY🎶ISSUE🎶CONTACT🎶✨", user_id=config.OWNER_ID),
     ],
@@ -66,19 +66,19 @@ pm_buttons = [
 gp_buttons = [
     [
         InlineKeyboardButton(
-            text="ᴀᴅᴅ ᴍᴇ ᴛᴏ ʏᴏᴜʀ ɢʀᴏᴜᴘ",
+            text="✨𝓐𝓓𝓓 𝓜𝓔 𝓣𝓞 𝓨𝓞𝓤𝓡 𝓖𝓡𝓞𝓤𝓟 ✨",
             url=f"https://t.me/{BOT_USERNAME}?startgroup=true",
         )
     ],
     [
-        InlineKeyboardButton(text="❄ ᴄʜᴀɴɴᴇʟ ❄", url=config.SUPPORT_CHANNEL),
-        InlineKeyboardButton(text="✨ sᴜᴩᴩᴏʀᴛ ✨", url=config.SUPPORT_CHAT),
+        InlineKeyboardButton(text="✅✨ 𝓒ℋ𝓐𝓝𝓝𝓔ℒ ✨✅", url=config.SUPPORT_CHANNEL),
+        InlineKeyboardButton(text="✅✨ 𝕾𝖀𝕻𝕻𝕺𝕽𝕿 ✨✅"", url=config.SUPPORT_CHAT),
     ],
     [
         InlineKeyboardButton(
-            text="☁️ sᴏᴜʀᴄᴇ ☁️", url="https://github.com/TheAnonymous2005/FallenMusic"
+            text="✨★彡 🄱🄾🅃 🄼🄾🅃🄸🅅🄴  彡★✨", url="https://graph.org/file/42b16d92241d15043b69b.jpg"
         ),
-        InlineKeyboardButton(text="🥀 ᴅᴇᴠᴇʟᴏᴩᴇʀ 🥀", user_id=config.OWNER_ID),
+        InlineKeyboardButton(text="✨🎶ANY🎶ISSUE🎶CONTACT🎶✨", user_id=config.OWNER_ID),
     ],
 ]
 
