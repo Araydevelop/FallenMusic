@@ -45,14 +45,14 @@ buttons = InlineKeyboardMarkup(
 pm_buttons = [
     [
         InlineKeyboardButton(
-            text="ᴀᴅᴅ ᴍᴇ ᴛᴏ ʏᴏᴜʀ ɢʀᴏᴜᴘ",
+            text="✨𝓐𝓓𝓓 𝓜𝓔 𝓣𝓞 𝓨𝓞𝓤𝓡 𝓖𝓡𝓞𝓤𝓟 ✨",
             url=f"https://t.me/{BOT_USERNAME}?startgroup=true",
         )
     ],
     [InlineKeyboardButton(text="ʜᴇʟᴩ & ᴄᴏᴍᴍᴀɴᴅs", callback_data="fallen_help")],
     [
-        InlineKeyboardButton(text="❄ ᴄʜᴀɴɴᴇʟ ❄", url=config.SUPPORT_CHANNEL),
-        InlineKeyboardButton(text="✨ sᴜᴩᴩᴏʀᴛ ✨", url=config.SUPPORT_CHAT),
+        InlineKeyboardButton(text="✅✨ 𝓒ℋ𝓐𝓝𝓝𝓔ℒ ✨✅", url=config.SUPPORT_CHANNEL),
+        InlineKeyboardButton(text="✅✨ 𝕾𝖀𝕻𝕻𝕺𝕽𝕿 ✨✅", url=config.SUPPORT_CHAT),
     ],
     [
         InlineKeyboardButton(
